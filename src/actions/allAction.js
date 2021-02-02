@@ -1,0 +1,11 @@
+export const ADD_CONTENT='ADD_CONTENT'
+export const GET_CONTENT='GET_CONTENT'
+export const SELECT_CONTENT='SELECT_CONTENT'
+export const GET_JOB_CATEGORY='GET_JOB_CATEGORY'
+export const GET_ALL_CONTENT='GET_ALL_CONTENT'
+export const DELETE_CONTENT='DELETE_CONTENT'
+export const UPDATE_CONTENT='UPDATE_CONTENT' 
+export const GET_JOB='GET_JOB'
+export const SiGNUP_='SiGNUP_'
+export const LOGIN_='LOGIN_'
+
